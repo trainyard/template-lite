@@ -1,0 +1,17 @@
+Usage: choo-add [options] [args]
+
+Available scaffold options:
+
+        --view, -v  [view-name]
+                    Creates a new view and also adds it to the routes.js
+                    file.  Adds the file to src/views/[view-name].js
+
+       --model, -m  [model-name]
+                    Create a choo.model, saved to src/models/[model-name].js
+
+     --element, -e  [element-name]
+                    Create a choo/html, saved to src/elements/[element-name].js
+
+Additional options:
+
+  --help, -h  Shows this.
