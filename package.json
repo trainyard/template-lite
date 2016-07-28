@@ -1,6 +1,6 @@
 {
-  "name": "template-lite",
-  "version": "0.0.0-unstable",
+  "name": "@choo/template-lite",
+  "version": "0.0.0",
   "description": "",
   "main": "scaffold/index.js",
   "scripts": {
